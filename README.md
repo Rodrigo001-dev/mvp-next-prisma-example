@@ -7,7 +7,7 @@ O MVP muitas vezes pode não incluir código, o MVP é uma solução pro seu usu
 ## 🚀 Tecnologias/Bibliotecas utilizadas
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=Vercel&logoColor=white" alt="Next"> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next"> </a>
 <a href="https://www.prisma.io/" target="_blank"> <img src="https://img.shields.io/badge/-Prisma-3368FF?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"> </a>
 
 ## 💻 Autor
